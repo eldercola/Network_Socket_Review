@@ -8,7 +8,7 @@ HTTP，全称 **Hyper Text Transfer Protocol**，中文 **超文本传输协议*
 
 ## 2 HTTP 工作流程示例
 
-![](D:\BTH011\自主整理\HTTP\工作流程.png)
+![](https://github.com/LinShengfeng-code/Network_Socket_Review/blob/main/HTTP/%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B.png?raw=true)
 
 1. 用户在浏览器里输入请求的URL
 2. **浏览器**<font color = red>(客户端)</font>向服务器发送一个 <font color = red>**request**</font> message
@@ -81,7 +81,7 @@ User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
 (blank line) 
 ```
 
-![](D:\BTH011\自主整理\HTTP\REQUEST结构.png)
+![](https://github.com/LinShengfeng-code/Network_Socket_Review/blob/main/HTTP/REQUEST%E7%BB%93%E6%9E%84.png?raw=true)
 
 我们把具体内容和Request结构结合在一起看，则:
 
@@ -164,7 +164,7 @@ Cookie: PHPSESSID=u2vkjd7lxyxyxyxyxyxyxyxyx30[CRLF]
 
 ### 3.2 Response  
 
-![](D:\BTH011\自主整理\HTTP\Response结构.png)
+![](https://github.com/LinShengfeng-code/Network_Socket_Review/blob/main/HTTP/Response%E7%BB%93%E6%9E%84.png?raw=true)
 
 #### 3.2.1 Status Line
 
