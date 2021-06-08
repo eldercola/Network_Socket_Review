@@ -32,7 +32,7 @@ HTTP，全称 **Hyper Text Transfer Protocol**，中文 **超文本传输协议*
 >
 >    > 这里结合一张图看：
 >    >
->    > ![](D:\BTH011\自主整理\HTTP\HTTP底层.png)
+>    > ![](https://raw.github.com/LinShengfeng-code/Network_Socket_Review/HTTP/HTTP底层.png)
 >
 > 4. Path-and-file-name: 请求资源的名称和位置，位于服务器文档基目录下。
 >
